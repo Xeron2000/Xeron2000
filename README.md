@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xeron2000&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+-   👋 Hi, I'm Xeron
+<!-- -   🚀️ I'm currently working as  -->
+-   📮️ How to reach me: [Telegram](https://t.me/Xeron23)
+-   📖 My motto: Flow with life
 
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xeron2000&theme=dark)](https://github.com/anuraghazra/github-readme-stats)   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeron2000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
