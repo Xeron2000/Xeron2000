@@ -6,5 +6,5 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xeron2000&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xeron2000&theme=tokyonight)
 
