@@ -1,8 +1,1 @@
-# Todoist Stats
-
-<!-- TODO-IST:START -->
-🏆  100 Karma Points           
-🌸  Completed 1 tasks today           
-✅  Completed 1 tasks so far           
-⏳  Longest streak is 0 days
-<!-- TODO-IST:END -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xeron2000&theme=vue)
