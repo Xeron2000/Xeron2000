@@ -1,5 +1,3 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Xeron2000&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Xeron2000)
-
 -   👋 Hi, I'm Xeron
 -   📮️ How to reach me: [Telegram](https://t.me/Xeron23)
 -   📖 My motto: Flow with life
