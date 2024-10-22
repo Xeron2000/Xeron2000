@@ -1,6 +1,6 @@
--   👋 Hi, I'm Xeron
--   📮️ How to reach me: [Telegram](https://t.me/Xeron23)
--   📖 My motto: Flow with life
+- 👋 Hi, I'm Xeron
+- 📮️ How to reach me: [Telegram](https://t.me/Xeron23) | [Email](mailto:cw48565@gmail.com)
+- 📖 My motto: Flow with life
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xeron2000&theme=tokyonight)
 
