@@ -28,9 +28,6 @@ jobs:
           SHOW_EDITORS: "False"
           SHOW_UPDATED_DATE: "False"
           DEBUG_LOGGING: "False"
-          INPUT_SHOW_TIMEZONE: "False"
-          INPUT_SHOW_UPDATED_DATE: "False"
-          INPUT_SHOW_TOTAL_CODE_TIME: "False"
 
 
           
