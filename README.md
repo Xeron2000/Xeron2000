@@ -15,22 +15,10 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Xeron2000/Xeron2000/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2024 10:03:37 UTC
+ Last Updated on 24/10/2024 10:10:39 UTC
 <!--END_SECTION:waka-->
