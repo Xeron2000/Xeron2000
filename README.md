@@ -8,12 +8,6 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#4094](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/4094#issuecomment-2429081625) in [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
-2. ❌ Closed PR [#1](https://github.com/Vertin16/pycode/pull/1) in [Vertin16/pycode](https://github.com/Vertin16/pycode)
-3. 💪 Opened PR [#1](https://github.com/Vertin16/pycode/pull/1) in [Vertin16/pycode](https://github.com/Vertin16/pycode)
-<!--END_SECTION:activity-->
-
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
@@ -42,3 +36,9 @@ Sunday                   51 commits          ████████░░░�
 
 
 <!--END_SECTION:waka-->
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#4094](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/4094#issuecomment-2429081625) in [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
+2. ❌ Closed PR [#1](https://github.com/Vertin16/pycode/pull/1) in [Vertin16/pycode](https://github.com/Vertin16/pycode)
+3. 💪 Opened PR [#1](https://github.com/Vertin16/pycode/pull/1) in [Vertin16/pycode](https://github.com/Vertin16/pycode)
+<!--END_SECTION:activity-->
