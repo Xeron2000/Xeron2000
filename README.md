@@ -1,8 +1,5 @@
 - 👋 Hi, I'm Xeron
 - 📮️ How to reach me: [Telegram](https://t.me/Xeron23) | [Email](mailto:cw48565@gmail.com)
-- 📖 My motto: Flow with life
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xeron2000&theme=tokyonight)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Xeron2000/Xeron2000/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -10,3 +7,4 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+<!--START_SECTION:activity-->
