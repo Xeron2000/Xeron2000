@@ -34,7 +34,7 @@ Sunday                   52 commits          ██████░░░░░�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Xeron2000/dotfiles/pull/3) in [Xeron2000/dotfiles](https://github.com/Xeron2000/dotfiles)
-2. 💪 Opened PR [#3](https://github.com/Xeron2000/dotfiles/pull/3) in [Xeron2000/dotfiles](https://github.com/Xeron2000/dotfiles)
-3. 🎉 Merged PR [#2](https://github.com/Xeron2000/dotfiles/pull/2) in [Xeron2000/dotfiles](https://github.com/Xeron2000/dotfiles)
+1. 🎉 Merged PR [#4](https://github.com/Xeron2000/dotfiles/pull/4) in [Xeron2000/dotfiles](https://github.com/Xeron2000/dotfiles)
+2. 💪 Opened PR [#4](https://github.com/Xeron2000/dotfiles/pull/4) in [Xeron2000/dotfiles](https://github.com/Xeron2000/dotfiles)
+3. 🎉 Merged PR [#3](https://github.com/Xeron2000/dotfiles/pull/3) in [Xeron2000/dotfiles](https://github.com/Xeron2000/dotfiles)
 <!--END_SECTION:activity-->
