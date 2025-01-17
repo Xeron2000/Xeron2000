@@ -7,7 +7,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Xeron2000/Xeron2000/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
