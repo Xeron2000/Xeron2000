@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 90" width="750" height="90">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#cba6f7" />
+      <stop offset="50%" stop-color="#f5c2e7" />
+      <stop offset="100%" stop-color="#f5a97f" />
+    </linearGradient>
+  </defs>
+  <style>
+    .prompt { font-family: "JetBrains Mono", "Fira Code", "SF Mono", monospace; font-size: 32px; font-weight: 800; fill: url(#grad); }
+    .cursor { animation: blink 1s infinite; fill: #89b4fa; }
+    .sub { font-family: "JetBrains Mono", "Fira Code", "SF Mono", monospace; font-size: 14px; font-weight: 500; fill: #a6adc8; letter-spacing: 1.2px; }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+  </style>
+  <text x="50%" y="38" text-anchor="middle" class="prompt">xeron@arch:~# <tspan class="cursor">_</tspan></text>
+  <text x="50%" y="74" text-anchor="middle" class="sub">AI Multi-Agent Systems  •  Web3 &amp; Crypto Quant  •  Minimalist Tooling</text>
+</svg>
