@@ -5,7 +5,7 @@
   <!-- Refined Arch Linux & Pi Dual Icon Spec Board -->
   <br/>
   <p align="center">
-    <a href="https://archlinux.org"><img src="https://skillicons.dev/icons?i=arch" width="40" height="40" alt="Arch Linux" valign="middle" /></a>
+    <a href="https://archlinux.org"><img src="assets/arch.svg" width="40" height="40" alt="Arch Linux" valign="middle" /></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://pi.dev"><img src="pi.svg" width="40" height="40" alt="Pi Coding Agent" valign="middle" /></a>
   </p>
@@ -17,23 +17,23 @@
 
   <br/>
   <p align="center">
-    <a href="https://blog.040304.xyz"><img src="https://img.shields.io/badge/Blog-blog.040304.xyz-f5a97f?style=flat-square&logo=astro&logoColor=1e1e2e" alt="Blog" /></a>&nbsp;
-    <a href="https://twitter.com/xeron688"><img src="https://img.shields.io/badge/X-@xeron688-1e1e2e?style=flat-square&logo=x&logoColor=cdd6f4" alt="X" /></a>&nbsp;
-    <a href="https://t.me/Xeron23"><img src="https://img.shields.io/badge/Telegram-@Xeron23-89b4fa?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>&nbsp;
-    <a href="mailto:xeron2333@gmail.com"><img src="https://img.shields.io/badge/Email-xeron2333@gmail.com-eba0ac?style=flat-square&logo=gmail&logoColor=1e1e2e" alt="Email" /></a>&nbsp;
-    <a href="https://github.com/ArchdevilForge"><img src="https://img.shields.io/badge/Org-ArchdevilForge-b4befe?style=flat-square&logo=github&logoColor=1e1e2e" alt="ArchdevilForge" /></a>
+    <a href="https://blog.040304.xyz"><img src="assets/badge-blog.svg" alt="Blog" /></a>&nbsp;
+    <a href="https://twitter.com/xeron688"><img src="assets/badge-x.svg" alt="X" /></a>&nbsp;
+    <a href="https://t.me/Xeron23"><img src="assets/badge-telegram.svg" alt="Telegram" /></a>&nbsp;
+    <a href="mailto:xeron2333@gmail.com"><img src="assets/badge-email.svg" alt="Email" /></a>&nbsp;
+    <a href="https://github.com/ArchdevilForge"><img src="assets/badge-org.svg" alt="ArchdevilForge" /></a>
   </p>
 
   <br/>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=arch,linux,bash,python,rust,go,ts,fastapi,react,docker,postgres,redis,astro,tailwind,git" />
+    <img src="assets/skills.svg" />
   </p>
 
 </div>
 
 ---
 
-### <img src="https://api.iconify.design/simple-icons:ethereum.svg?color=%23cba6f7" width="18" height="18" valign="middle" />&nbsp; Web3 & Crypto Intelligence
+### <img src="assets/icon-ethereum.svg" width="18" height="18" valign="middle" />&nbsp; Web3 & Crypto Intelligence
 
 * **[ArchdevilForge/retraq](https://github.com/ArchdevilForge/retraq)** <img src="https://img.shields.io/github/stars/ArchdevilForge/retraq?style=flat-square&color=ffd700" alt="stars" />  
   <sub>`React` · `FastAPI` · `OKX API` · `Data Visualization`</sub>  
@@ -62,7 +62,7 @@
 
 ---
 
-### <img src="https://api.iconify.design/simple-icons:openai.svg?color=%23cba6f7" width="18" height="18" valign="middle" />&nbsp; AI & Agent Infrastructure
+### <img src="assets/icon-openai.svg" width="18" height="18" valign="middle" />&nbsp; AI & Agent Infrastructure
 
 * **[openOii](https://github.com/Xeron2000/openOii)** <img src="https://img.shields.io/github/stars/Xeron2000/openOii?style=flat-square&color=ffd700" alt="stars" />  
   <sub>`Python` · `LangGraph` · `Multi-Agent System` · `Video Generation`</sub>  
@@ -79,7 +79,7 @@
 
 ---
 
-### <img src="https://api.iconify.design/simple-icons:gnubash.svg?color=%23cba6f7" width="18" height="18" valign="middle" />&nbsp; Systems & Tooling
+### <img src="assets/icon-gnubash.svg" width="18" height="18" valign="middle" />&nbsp; Systems & Tooling
 
 * **[fx-gateway-proxy](https://github.com/Xeron2000/fx-gateway-proxy)** <img src="https://img.shields.io/github/stars/Xeron2000/fx-gateway-proxy?style=flat-square&color=ffd700" alt="stars" />  
   <sub>`Python` · `FastAPI` · `Reverse Proxy` · `Protocol Engineering`</sub>  
@@ -93,7 +93,7 @@
 
 ---
 
-### <img src="https://api.iconify.design/simple-icons:gitbook.svg?color=%23cba6f7" width="18" height="18" valign="middle" />&nbsp; Featured Resources
+### <img src="assets/icon-gitbook.svg" width="18" height="18" valign="middle" />&nbsp; Featured Resources
 
 * **[DolOffer Guide](https://github.com/Doloffer-g/guide)**  
   <sub>`Open Source Guide` · `AI Subscriptions` · `Digital Services`</sub>  
