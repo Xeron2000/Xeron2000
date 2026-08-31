@@ -1,13 +1,13 @@
 <div align="center">
 
-  <img src="header.svg" width="680" alt="xeron@arch:~#" />
+  <img src="https://fastly.jsdelivr.net/gh/Xeron2000/Xeron2000@main/header.svg" width="680" alt="xeron@arch:~#" />
 
   <!-- Refined Arch Linux & Pi Dual Icon Spec Board -->
   <br/>
   <p align="center">
-    <a href="https://archlinux.org"><img src="assets/arch.svg" width="40" height="40" alt="Arch Linux" valign="middle" /></a>
+    <a href="https://archlinux.org"><img src="https://fastly.jsdelivr.net/gh/Xeron2000/Xeron2000@main/assets/arch.svg" width="40" height="40" alt="Arch Linux" valign="middle" /></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://pi.dev"><img src="pi.svg" width="40" height="40" alt="Pi Coding Agent" valign="middle" /></a>
+    <a href="https://pi.dev"><img src="https://fastly.jsdelivr.net/gh/Xeron2000/Xeron2000@main/pi.svg" width="40" height="40" alt="Pi Coding Agent" valign="middle" /></a>
   </p>
 
   <p align="center">
@@ -17,23 +17,23 @@
 
   <br/>
   <p align="center">
-    <a href="https://blog.040304.xyz"><img src="assets/badge-blog.svg" alt="Blog" /></a>&nbsp;
-    <a href="https://twitter.com/xeron688"><img src="assets/badge-x.svg" alt="X" /></a>&nbsp;
-    <a href="https://t.me/Xeron23"><img src="assets/badge-telegram.svg" alt="Telegram" /></a>&nbsp;
-    <a href="mailto:xeron2333@gmail.com"><img src="assets/badge-email.svg" alt="Email" /></a>&nbsp;
-    <a href="https://github.com/ArchdevilForge"><img src="assets/badge-org.svg" alt="ArchdevilForge" /></a>
+    <a href="https://blog.040304.xyz"><img src="https://fastly.jsdelivr.net/gh/Xeron2000/Xeron2000@main/assets/badge-blog.svg" alt="Blog" /></a>&nbsp;
+    <a href="https://twitter.com/xeron688"><img src="https://fastly.jsdelivr.net/gh/Xeron2000/Xeron2000@main/assets/badge-x.svg" alt="X" /></a>&nbsp;
+    <a href="https://t.me/Xeron23"><img src="https://fastly.jsdelivr.net/gh/Xeron2000/Xeron2000@main/assets/badge-telegram.svg" alt="Telegram" /></a>&nbsp;
+    <a href="mailto:xeron2333@gmail.com"><img src="https://fastly.jsdelivr.net/gh/Xeron2000/Xeron2000@main/assets/badge-email.svg" alt="Email" /></a>&nbsp;
+    <a href="https://github.com/ArchdevilForge"><img src="https://fastly.jsdelivr.net/gh/Xeron2000/Xeron2000@main/assets/badge-org.svg" alt="ArchdevilForge" /></a>
   </p>
 
   <br/>
   <p align="center">
-    <img src="assets/skill-icons.svg" />
+    <img src="https://fastly.jsdelivr.net/gh/Xeron2000/Xeron2000@main/assets/skill-icons.svg" />
   </p>
 
 </div>
 
 ---
 
-### <img src="assets/icon-ethereum.svg" width="18" height="18" valign="middle" />&nbsp; Web3 & Crypto Intelligence
+### <img src="https://fastly.jsdelivr.net/gh/Xeron2000/Xeron2000@main/assets/icon-ethereum.svg" width="18" height="18" valign="middle" />&nbsp; Web3 & Crypto Intelligence
 
 * **[ArchdevilForge/retraq](https://github.com/ArchdevilForge/retraq)** <img src="https://img.shields.io/github/stars/ArchdevilForge/retraq?style=flat-square&color=ffd700" alt="stars" />  
   <sub>`React` · `FastAPI` · `OKX API` · `Data Visualization`</sub>  
@@ -62,7 +62,7 @@
 
 ---
 
-### <img src="assets/icon-openai.svg" width="18" height="18" valign="middle" />&nbsp; AI & Agent Infrastructure
+### <img src="https://fastly.jsdelivr.net/gh/Xeron2000/Xeron2000@main/assets/icon-openai.svg" width="18" height="18" valign="middle" />&nbsp; AI & Agent Infrastructure
 
 * **[openOii](https://github.com/Xeron2000/openOii)** <img src="https://img.shields.io/github/stars/Xeron2000/openOii?style=flat-square&color=ffd700" alt="stars" />  
   <sub>`Python` · `LangGraph` · `Multi-Agent System` · `Video Generation`</sub>  
@@ -79,7 +79,7 @@
 
 ---
 
-### <img src="assets/icon-gnubash.svg" width="18" height="18" valign="middle" />&nbsp; Systems & Tooling
+### <img src="https://fastly.jsdelivr.net/gh/Xeron2000/Xeron2000@main/assets/icon-gnubash.svg" width="18" height="18" valign="middle" />&nbsp; Systems & Tooling
 
 * **[fx-gateway-proxy](https://github.com/Xeron2000/fx-gateway-proxy)** <img src="https://img.shields.io/github/stars/Xeron2000/fx-gateway-proxy?style=flat-square&color=ffd700" alt="stars" />  
   <sub>`Python` · `FastAPI` · `Reverse Proxy` · `Protocol Engineering`</sub>  
@@ -93,7 +93,7 @@
 
 ---
 
-### <img src="assets/icon-gitbook.svg" width="18" height="18" valign="middle" />&nbsp; Featured Resources
+### <img src="https://fastly.jsdelivr.net/gh/Xeron2000/Xeron2000@main/assets/icon-gitbook.svg" width="18" height="18" valign="middle" />&nbsp; Featured Resources
 
 * **[DolOffer Guide](https://github.com/Doloffer-g/guide)**  
   <sub>`Open Source Guide` · `AI Subscriptions` · `Digital Services`</sub>  
