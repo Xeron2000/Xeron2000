@@ -26,7 +26,7 @@
 
   <br/>
   <p align="center">
-    <img src="assets/skills.svg" />
+    <img src="assets/skill-icons.svg" />
   </p>
 
 </div>
